@@ -1,2 +1,2 @@
-# ANoCo.github.io
-Affective Neuroscience Collaboratory 
+# ANiC.github.io
+Affective Neuroimaging Collaboratory

@@ -1,1 +1,15 @@
+# Site navigation links
+- title: Home
+  url: /
 
+- title: About
+  url: /presentations/
+
+- title: Consortium Dataset 
+  url: /dataset/
+
+- title: Data Sharing Policy
+  url: /datasharingpolicy/
+
+- title: Publication Policy 
+  url: /publicationpolicy/

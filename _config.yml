@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+title: "ANiC"
+
+
+# Site Author
+author:
+  name             : "ANiC"
+  avatar           : " "
+  bio              : " "
+  location         : "Dartmouth College"
+  employer         : "CANLAB"
